@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 📈 My GitHub Stats
 
 <!--![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham)-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos">
 
