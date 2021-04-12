@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub👋
 
 <!--
 **vitos4chitos/vitos4chitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📈 My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" /></p>
+
+![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham)
+  
+<code align = "right"> ![](https://visitor-badge.glitch.me/badge?page_id=vitos4chitos.visitor-badge) </code>
