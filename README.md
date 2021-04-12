@@ -1,5 +1,7 @@
 ### Welcome to my GitHub👋 
 ### My name is Victor and I'm beginner back-end developer from Russia.
+<img align="right" alt="GIF" src="https://github.com/vitos4chitos/vitos4chitos/blob/main/tenor.gif?raw=true" width="500" height="320" />
+</br>
 
 <!--
 **vitos4chitos/vitos4chitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡  Fun fact: ...
 -->
 
 **You can find me here:** </br>
@@ -33,6 +35,12 @@ Here are some ideas to get you started:
 
 ... or write me on GMAIL: angrycoffee23@gmail.com
 </br>
+
+**Some facts:** </br>
+- 🔭 I’m currently studying in ITMO.
+- ⚡ Looking for an internship or part-time job.
+- 😄 My motto: Learning to do, doing to learn!
+- 🌱 I’m currently learning Java, C++, Web Technologies related to Java and Frontend Technologies.
 
 📈 My GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" /></p>
