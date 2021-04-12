@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/vitos4chitos">
   <img align="left" alt="Git" width="25px" src="https://github.com/vitos4chitos/vitos4chitos/blob/main/github.png" />
 </a>
-<a href="https://www.instagram.com/why.goat/s">
+<a href="https://www.instagram.com/why.goat">
   <img align="left" alt="Instagram" width="25px" src="https://github.com/vitos4chitos/vitos4chitos/blob/main/instagram.png" />
 </a>
 </br>
