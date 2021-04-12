@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, C++, Web Technologies related to Java and Frontend Technologies.
 
 📈 My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vitos4chitos" /></p>
 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vitos4chitos&show_icons=true&locale=en&layout=compact&theme=gotham)
   
