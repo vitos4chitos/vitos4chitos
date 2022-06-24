@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in ITMO.
 - ⚡ Looking for an internship or part-time job.
 - 😄 My motto: Learning to do, doing to learn!
-- 🌱 I’m currently learning Java, C++, Web Technologies related to Java and Frontend Technologies.
+- 🌱 I’m currently learning Java, Kotlin, C++, Web Technologies related to Java and Frontend Technologies.
 - 🤔 Fun fact: I'm not afraid of someone who knows 10,000 different types of development, but of someone who learned only SOLID and decide to refactor my project
 
 📈 My GitHub Stats
