@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </br>
 
 **Some facts:** </br>
-- 🔭 I’m currently studying in ITMO.
-- ⚡ Looking for an internship or part-time job.
+- 🔭 I'm a graduate of ITMO.
+- ⚡ T-Bank QA Engineer.
 - 😄 My motto: Learning to do, doing to learn!
-- 🌱 I’m currently learning Java, Kotlin, C++, Web Technologies related to Java and Frontend Technologies.
+- 🌱 I’m currently learning Java, Kotlin, C++, algorithms and data structures.
 - 🤔 Fun fact: I'm not afraid of someone who knows 10,000 different types of development, but of someone who learned only SOLID and decide to refactor my project
 
 📈 My GitHub Stats
