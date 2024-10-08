@@ -1,5 +1,5 @@
 ### Welcome to my GitHub👋 
-### My name is Victor and I'm beginner back-end developer from Russia.
+### My name is Victor and I'm middle QA Engineer / Java Automation from Russia.
 <img align="right" alt="GIF" src="https://github.com/vitos4chitos/vitos4chitos/blob/main/tenor.gif?raw=true" width="500" height="320" />
 </br>
 
